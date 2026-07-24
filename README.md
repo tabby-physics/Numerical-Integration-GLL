@@ -2,9 +2,7 @@
 
 A numerical methods project implementing GLL quadrature and Lagrange interpolation to
 approximate definite integrals, and comparing the result against the analytical solution.
-
-![Numerical vs Analytical Function](images/result_plot.png)
-
+![Numerical vs Analytical Function](images/result_plot.jpeg)
 ## Overview
 
 Gauss-Lobatto-Legendre (GLL) quadrature is a numerical integration scheme widely used in
